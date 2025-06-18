@@ -1,0 +1,24 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace HR.LeaveManagemnt.Application.Exceptions
+{
+    public class BadRequestException : Exception
+    {
+        public BadRequestException(string message) : base(message)
+        {
+
+        }
+
+
+        public BadRequestException(string message, ValidationResult validationResult) : base(message)
+        {
+            ValidationErrors = new();
+            foreach (var error in validationResult.Errr)
+            {
+                ValidationErrors.Add(error.ErrorMessage);
+            }
+        }
+
+        public List<string> ValidationErrors { get; set; }
+    }
+}
