@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using FluentValidation.Results;
 
 namespace HR.LeaveManagemnt.Application.Exceptions
 {
@@ -13,7 +13,7 @@ namespace HR.LeaveManagemnt.Application.Exceptions
         public BadRequestException(string message, ValidationResult validationResult) : base(message)
         {
             ValidationErrors = new();
-            foreach (var error in validationResult.Errr)
+            foreach (var error in validationResult.Errors)
             {
                 ValidationErrors.Add(error.ErrorMessage);
             }

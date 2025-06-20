@@ -13,3 +13,4 @@ C:\Users\63200506\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagemnt.Applic
 C:\Users\63200506\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagemnt.Application\obj\Debug\net8.0\refint\HR.LeaveManagemnt.Application.dll
 C:\Users\63200506\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagemnt.Application\obj\Debug\net8.0\HR.LeaveManagemnt.Application.pdb
 C:\Users\63200506\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagemnt.Application\obj\Debug\net8.0\ref\HR.LeaveManagemnt.Application.dll
+C:\Users\63200506\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagemnt.Application\obj\Debug\net8.0\HR.LeaveManagemnt.Application.sourcelink.json

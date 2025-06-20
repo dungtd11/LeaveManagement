@@ -9,3 +9,4 @@ C:\Users\63200506\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domai
 C:\Users\63200506\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\refint\HR.LeaveManagement.Domain.dll
 C:\Users\63200506\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.pdb
 C:\Users\63200506\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\63200506\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.sourcelink.json

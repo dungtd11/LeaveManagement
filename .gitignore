@@ -1,1 +1,91 @@
-.vs/
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# VS Code folders
+.vscode/
+
+# Rider IDE
+.idea/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User secrets
+secrets.json
+*.secret
+
+# Others
+*.ncrunch*
+*.localhistory/
+*.sln.cache
+*.vs/
+_ReSharper*/
+*.DotSettings.user
+
+# Logs
+*.log
+logs/
+*.tlog
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Dependency graph support
+*.dg
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.codecoverage
+
+# Publish output
+publish/
+out/
+
+# Database files
+*.mdf
+*.ldf
+
+# Entity Framework Migrations
+Migrations/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Installer logs
+*.msi
+*.msm
+*.cab
+
+# Others
+*.dbmdl
+*.bak
+*.sql
