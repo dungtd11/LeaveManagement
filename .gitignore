@@ -1,6 +1,11 @@
 ## Ignore Visual Studio temporary files, build results, and
 ## user-specific files
 
+
+# Ignore the default appsettings
+appsettings.json
+
+
 # User-specific files
 *.rsuser
 *.suo
